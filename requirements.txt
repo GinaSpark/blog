@@ -1,0 +1,3 @@
+#CONTROL DE VERSIÓN
+django== 5.1.4
+
